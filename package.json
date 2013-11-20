@@ -16,5 +16,12 @@
     "shasum": "4e190c9369836b8e82550c0b440172cdddab9c2c"
   },
   "_resolved": "scss-componentize-0.0.0.tgz",
-  "_from": "scss-componentize-0.0.0.tgz"
+  "_from": "scss-componentize-0.0.0.tgz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iredmedia/scss-componentize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iredmedia/scss-componentize/issues"
+  }
 }
