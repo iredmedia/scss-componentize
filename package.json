@@ -1,0 +1,20 @@
+{
+  "name": "scss-componentize",
+  "version": "0.0.1",
+  "description": "Wrap the contents of a css file in a class (componentize) then compile using sass compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Redman (iredmedia@gmail.com)",
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "scss",
+    "component"
+  ],
+  "dist": {
+    "shasum": "4e190c9369836b8e82550c0b440172cdddab9c2c"
+  },
+  "_resolved": "scss-componentize-0.0.0.tgz",
+  "_from": "scss-componentize-0.0.0.tgz"
+}
